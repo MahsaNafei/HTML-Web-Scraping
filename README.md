@@ -39,7 +39,7 @@ This project involves scraping data from [Mars news site](https://static.bc-edx.
      ##### Number of Months on Mars:
     - To determine the number of months on Mars, the code groups the data by the 'month' column and then counts the unique values. This count represents the number of distinct Martian months included in the dataset.
 
-     ##### Total Data Count:***
+     ##### Total Data Count:
     - The code counts the total number of data points in the dataset. This count reflects the cumulative data entries available for analysis, representing the duration of data collection.
 
      ##### Coldest and Warmest Months:
