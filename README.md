@@ -70,4 +70,3 @@ To run the project and access the data:
 1. Ensure you have the required libraries and dependencies installed.
 2. Run the Python script to perform the data scraping and analysis.
 3. Review the 'output.csv' file for the gathered data and analysis results.
-4. Feel free to adapt the code and URLs for further analysis or integration into other projects.
