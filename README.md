@@ -36,28 +36,28 @@ This project involves scraping data from [Mars news site](https://static.bc-edx.
 
 6. **Data Analysis**
 
-     #### Number of Months on Mars:
+     ##### Number of Months on Mars:
     - To determine the number of months on Mars, the code groups the data by the 'month' column and then counts the unique values. This count represents the number of distinct Martian months included in the dataset.
 
-     #### Total Data Count:***
+     ##### Total Data Count:***
     - The code counts the total number of data points in the dataset. This count reflects the cumulative data entries available for analysis, representing the duration of data collection.
 
-     #### Coldest and Warmest Months:***
+     ##### Coldest and Warmest Months:
     - The code identifies the coldest and warmest months on Mars based on the minimum daily temperature (min_temp) recorded at the location of Curiosity, a Mars rover.
     - To find the coldest month, it calculates the average minimum temperature for each month and identifies the month with the lowest average.
     - To find the warmest month, it calculates the average minimum temperature for each month and identifies the month with the highest average.
     - Two separate bar charts are generated to visualize the coldest and warmest months, aiding in the interpretation of temperature patterns on Mars.
 
-     #### Atmospheric Pressure Analysis:***
+     ##### Atmospheric Pressure Analysis:
     - The code performs an analysis of atmospheric pressure at Curiosity's location on Mars.
     - It calculates the average daily atmospheric pressure for each Martian month.
     - The results are visualized in a bar chart, allowing for the easy identification of months with the lowest and highest atmospheric pressure.
     - This analysis provides insights into the variations in atmospheric pressure on Mars throughout the year.
 
-     #### Mars Year Length Estimation:***
+     ##### Mars Year Length Estimation:
     - To estimate the length of a Martian year in Earth days, the code plots the daily minimum temperature data over time.
     - By observing temperature patterns and identifying peaks in the plot, an estimate of the Martian year's duration is made.
-    - In the project's sample output, it is estimated that a Mars year is approximately 675 Earth days, and this estimate is visually confirmed using the temperature plot.
+    - In the project's output, it is estimated that a Mars year is approximately 675 Earth days, and this estimate is visually confirmed using the temperature plot.
 
 
 7. **Data Export**
